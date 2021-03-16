@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Bonfiglioli_safetydashboard_android" parent="@style/Theme.Leanback" />
+</resources>
